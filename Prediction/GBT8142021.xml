@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?><process version="9.9.002">
   <context>
     <input/>
@@ -13,6 +14,7 @@
     <parameter key="encoding" value="SYSTEM"/>
     <process expanded="true">
       <operator activated="true" class="subprocess" compatibility="9.9.002" expanded="true" height="68" name="Load and Process Data" origin="EXPORTED_AUTOMODEL" width="90" x="179" y="85">
+
         <process expanded="true">
           <operator activated="true" class="retrieve" compatibility="9.9.002" expanded="true" height="68" name="Retrieve Data" origin="EXPORTED_AUTOMODEL" width="90" x="45" y="34">
             <parameter key="repository_entry" value="//Local Repository/data/Doc 2017 Full New"/>
